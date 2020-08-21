@@ -5,10 +5,10 @@
 #
 # pfBlockerNG Malicious Threats
 #
-# Maintainer      : BBcan177
-# Maintainer URL  : https://gist.github.com/BBcan177
-# List source URL : https://gist.githubusercontent.com/BBcan177/bf29d47ea04391cb3eb0/raw
-# Source File Date: Fri Jan 17 03:24:07 UTC 2020
+# Maintainer      : 0aters
+# Maintainer URL  : https://github.com/0aters
+# List source URL : https://raw.githubusercontent.com/0aters/blacklist_test/master/test4.ipset
+# Source File Date: Fri Aug 21 03:36:07 UTC 2020
 #
 # Category        : malware
 # Version         : 25
