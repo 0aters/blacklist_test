@@ -1,0 +1,23 @@
+#
+# iannew_1
+#
+# ipv4 hash:net ipset
+#
+#  Malicious Threats
+#
+# Maintainer      : 0aters
+# Maintainer URL  : https://github.com/0aters
+# List source URL : https://raw.githubusercontent.com/0aters/blacklist_test/master/test5.ipset
+# Source File Date: Mon Aug 24 03:36:07 UTC 2020
+#
+# Category        : attacks
+# Version         : 1
+#
+# This File Date  : Fri Jan 17 03:24:07 UTC 2020
+# Update Frequency: 1 day 
+# Aggregation     : none
+# Entries         : 268 subnets, 573 unique IPs
+#
+1.35.32.95
+2.50.41.54
+209.126.132.11
